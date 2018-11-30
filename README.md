@@ -193,4 +193,4 @@ Please submit bug reports and feature requests to the issue tracker on GitHub:
 
 [biodemo issue tracker](https://github.com/USERNAME/biodemo/issues)
 
-[![codecov](https://codecov.io/github/eddip/branch/master/graphs/badge.svg)](https://codecov.io/github/eddip)
+[![codecov](https://codecov.io/github/eddip/biodemo/branch/master/graphs/badge.svg)](https://codecov.io/github/biodeno/eddip)
